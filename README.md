@@ -9,5 +9,5 @@
 # Hier einmal ein weiteres EDIT
 
     * Habe bei diesem Projekt eine Repo lokal auf VIM erstellt und dann mit dem GitHub verbunden.
-    Mir persönlich gefällt aber die Variante mit "clone" von existierenden HitHab Repo. Nächstes mal 
+    Mir persönlich gefällt aber die Variante mit "clone" von existierenden GitHab Repo. Nächstes mal 
     probiere ich diesen weg aus. 
